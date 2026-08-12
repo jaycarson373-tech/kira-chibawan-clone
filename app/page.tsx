@@ -78,7 +78,7 @@ const photos = [
   { id: "photo-1", src: "/reference/nina0001.jpeg", alt: "キラが木の床に座っている写真" },
   { id: "photo-2", src: "/reference/nina0006.jpg", alt: "赤い首輪をつけたキラの写真" },
   { id: "photo-3", src: "/reference/koume0099.jpg", alt: "ご家族と一緒に写るキラの写真" },
-  { id: "photo-4", src: "/reference/kira-field.jpg", alt: "野原でスカーフをつけたキラの写真" },
+  { id: "photo-4", src: "/reference/kira-field.png", alt: "野原でスカーフをつけたキラの写真" },
 ] as const;
 
 export default function Home() {

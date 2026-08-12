@@ -14,7 +14,7 @@ export async function generateMetadata(): Promise<Metadata> {
   return {
     title,
     description,
-    icons: { icon: "/favicon.ico", shortcut: "/favicon.ico" },
+    icons: { icon: "/chibawan-favicon.ico", shortcut: "/chibawan-favicon.ico" },
     openGraph: { title, description, type: "website", locale: "ja_JP", images: [{ url: image, width: 1731, height: 909 }] },
     twitter: { card: "summary_large_image", title, description, images: [image] },
   };
