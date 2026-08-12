@@ -78,6 +78,7 @@ const photos = [
   { id: "photo-1", src: "/reference/nina0001.jpeg", alt: "キラが木の床に座っている写真" },
   { id: "photo-2", src: "/reference/nina0006.jpg", alt: "赤い首輪をつけたキラの写真" },
   { id: "photo-3", src: "/reference/koume0099.jpg", alt: "ご家族と一緒に写るキラの写真" },
+  { id: "photo-4", src: "/reference/kira-field.jpg", alt: "野原でスカーフをつけたキラの写真" },
 ] as const;
 
 export default function Home() {
@@ -157,12 +158,11 @@ export default function Home() {
                   <tr><th scope="row">犬種</th><td>MIX</td></tr>
                   <tr><th scope="row">性別</th><td>メス（不妊手術済）</td></tr>
                   <tr><th scope="row">年齢</th><td>推定1歳</td></tr>
-                  <tr><th scope="row">家族になった日</th><td>2020年1月3日</td></tr>
-                  <tr><th scope="row">おうち</th><td>千葉県佐倉市</td></tr>
+                  <tr><th scope="row">家族になった日</th><td>2012年8月3日</td></tr>
+                  <tr><th scope="row">おうち</th><td>東京都立川市</td></tr>
                   <tr><th scope="row">幸せ配達人</th><td>佐藤ファミリー</td></tr>
                   <tr><th scope="row">預かり人</th><td>佐藤敦子</td></tr>
-                  <tr><th scope="row">ブログ</th><td><a href="https://kabochan.blog.jp/">かぼすちゃんとおさんぽ。</a></td></tr>
-                  <tr><th scope="row">飼い主</th><td><a href="https://kabochan.blog.jp/">佐藤敦子</a></td></tr>
+                  <tr><th scope="row">ブログ</th><td><a href="https://ameblo.jp/koume-2009/">小梅日和</a></td></tr>
                 </tbody>
               </table>
               <p className="published">公開日：<time dateTime="2019-12-14">2019/12/14</time>　最終更新日：2020/2/9</p>
