@@ -1,4 +1,10 @@
-# vinext-starter
+# Kira Chibawan Clone
+
+**Live site:** https://jaycarson373-tech.github.io/kira-chibawan-clone/
+
+Faithful recreation of the referenced Chibawan profile layout with the subtle Kira and Atsuko Sato details requested.
+
+## Development
 
 A clean full-stack starter running on
 [vinext](https://github.com/cloudflare/vinext), with optional Cloudflare D1 and
