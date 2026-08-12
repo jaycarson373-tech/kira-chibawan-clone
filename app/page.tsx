@@ -159,8 +159,8 @@ export default function Home() {
                   <tr><th scope="row">年齢</th><td>推定1歳</td></tr>
                   <tr><th scope="row">家族になった日</th><td>2020年1月3日</td></tr>
                   <tr><th scope="row">おうち</th><td>千葉県佐倉市</td></tr>
-                  <tr><th scope="row">幸せ配達人</th><td>小梅ファミリー</td></tr>
-                  <tr><th scope="row">預かり人</th><td>小梅ファミリー</td></tr>
+                  <tr><th scope="row">幸せ配達人</th><td>佐藤ファミリー</td></tr>
+                  <tr><th scope="row">預かり人</th><td>佐藤敦子</td></tr>
                   <tr><th scope="row">ブログ</th><td><a href="https://kabochan.blog.jp/">かぼすちゃんとおさんぽ。</a></td></tr>
                   <tr><th scope="row">飼い主</th><td><a href="https://kabochan.blog.jp/">佐藤敦子</a></td></tr>
                 </tbody>
