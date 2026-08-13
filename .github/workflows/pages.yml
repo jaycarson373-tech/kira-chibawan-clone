@@ -26,8 +26,9 @@ jobs:
         run: |
           mkdir -p _site
           cp docs/index.html _site/index.html
+          cp -R docs/dogdetails _site/dogdetails
           tail -n +2 app/globals.css > _site/styles.css
-          cp public/favicon.ico public/og.png _site/
+          cp public/favicon.ico public/chibawan-favicon.ico public/og.png _site/
           cp -R public/reference _site/reference
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
